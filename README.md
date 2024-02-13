@@ -1,6 +1,6 @@
 # Ryan D. Ward
-* 575-650-8196
-* ryandward@gmail.com  
+* 6508196 (area code: **five**-**seven**-**five**)
+* **ryandward** with a [gmail](www.gmail.com) account
 * [ORCID](https://orcid.org/0000-0001-9537-2461)  
 * [Stack Overflow](https://stackoverflow.com/users/714178/ryan-david-ward)  
 * [GitHub](https://github.com/ryandward)  
