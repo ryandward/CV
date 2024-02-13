@@ -120,16 +120,13 @@ Graduate Researcher, Fall 2019 – Present
 * Created statistical pipelines analyzing next-generation sequencing data from random transposon mutant (Tn-seq) libraries to identify core genomes in *Escherichia coli* and *Acinetobacter baumannii*
 * Designed data visualization techniques to identify gene targets and functional pathways from chemical genomics screens in *Bacillus subtilis*
 * Developed software to facilitate Mobile-CRISPRi guide design for programmable gene knockdown in bacteria.
+
+
 **Pietrasiak Lab**  
 *New Mexico State University*  
 Research Assistant, Fall 2018 – Summer 2019  
 * Extracted and assessed DNA from cyanobacteria as part of a project funded by the Joint Genome Institute to understand phylogenetic relationships and photosynthetic pigment evolution
 
-**Pietrasiak Lab**  
-*New Mexico State University*  
-Staff Researcher, 2018-2019  
-* Extracted and assessed DNA from cyanobacteria as part of a project funded by the Joint Genome Institute to understand phylogenetic relationships and
-photosynthetic pigment evolution
 
 **Schmitz Lab**  
 *University of Georgia*  
