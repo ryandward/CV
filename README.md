@@ -125,6 +125,11 @@ Graduate Researcher, Fall 2019 – Present
 Research Assistant, Fall 2018 – Summer 2019  
 * Extracted and assessed DNA from cyanobacteria as part of a project funded by the Joint Genome Institute to understand phylogenetic relationships and photosynthetic pigment evolution
 
+**Pietrasiak Lab**
+*New Mexico State University*
+Staff Researcher, 2018-2019
+* Extracted and assessed DNA from cyanobacteria as part of a project funded by the Joint Genome Institute to understand phylogenetic relationships and
+photosynthetic pigment evolution
 
 **Schmitz Lab**  
 *University of Georgia*  
