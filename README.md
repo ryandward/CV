@@ -99,6 +99,7 @@ New Mexico State University
 
 
 ## Career development
+* Grad Student Executive Committee (2023-2024)
 * Midwest Healthcare Case Competition (2022, Semi-finalists)
 * Penn Healthcare Case Competition (2022)
 * Genetics PhD Program Selections Committee (2021)
