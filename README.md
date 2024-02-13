@@ -4,7 +4,8 @@
 * [ORCID](https://orcid.org/0000-0001-9537-2461)  
 * [Stack Overflow](https://stackoverflow.com/users/714178/ryan-david-ward)  
 * [GitHub](https://github.com/ryandward)  
-* [Google Scholar](https://scholar.google.com/citations?hl=en&user=24sPjT4AAAAJ)  
+* [Google Scholar](https://scholar.google.com/citations?hl=en&user=24sPjT4AAAAJ)
+* [LinkedIn](https://linkedin.com/in/ryan-ward-346889253/)
 
 
 ## Education and qualifications
