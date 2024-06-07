@@ -39,28 +39,30 @@ New Mexico State University
 ### First author
 
 
-* Ward, R. D., Tran, J. S., Banta, A. B., et al. (2023). "Essential gene knockdowns reveal genetic vulnerabilities and antibiotic sensitivities in Acinetobacter baumannii." *Mbio*, e02051-23.
+* **Ward, R. D.**, Tran, J. S., Banta, A. B., et al. (2023). "Essential gene knockdowns reveal genetic vulnerabilities and antibiotic sensitivities in Acinetobacter baumannii." *Mbio*, e02051-23.
 
 
 * Ward, R. D., Stajich, J. E., Johansen, J. R., et al. (2021). "Metagenome sequencing to explore phylogenomics of terrestrial cyanobacteria." *Microbiology resource announcements*, 10(22), e00258-21. American Society for Microbiology.
 
+### Co-first author
+* (Enright. A. L., Heelan, W., **Ward, R. D.**), Peters. J., et al. (2024). "CRISPRi functional genomics in bacteria and its application to medical and industrial research". *Microbiology and molecular biology reviews*, 10.1128/mmbr.00170-22.
 
 ### Co-author
 
 
-* Enright, A. L., Banta, A. B., Ward, R. D., et al. (2023). "The genetics of aerotolerant growth in an alphaproteobacterium with a naturally reduced genome." *Mbio*, e01487-23.
+* Enright, A. L., Banta, A. B., **Ward, R. D.**, et al. (2023). "The genetics of aerotolerant growth in an alphaproteobacterium with a naturally reduced genome." *Mbio*, e01487-23.
 
 
-* Yu, M. A., Banta, A. B., Ward, R. D., et al. (2023). "Investigating Pseudomonas aeruginosa Gene Function During Pathogenesis Using Mobile-CRISPRi." In *Pseudomonas aeruginosa: Methods and Protocols*, pp. 13-32. Springer US.
+* Yu, M. A., Banta, A. B., **Ward, R. D.**, et al. (2023). "Investigating Pseudomonas aeruginosa Gene Function During Pathogenesis Using Mobile-CRISPRi." In *Pseudomonas aeruginosa: Methods and Protocols*, pp. 13-32. Springer US.
 
 
-* Enright, A. L., Banta, A. B., Ward, R. D., et al. (2023). "The Genetics of Aerotolerant Growth in a Naturally Reduced Genome Alphaproteobacterium." *bioRxiv*, 2023.06.12.544693.
+* Enright, A. L., Banta, A. B., **Ward, R. D.**, et al. (2023). "The Genetics of Aerotolerant Growth in a Naturally Reduced Genome Alphaproteobacterium." *bioRxiv*, 2023.06.12.544693.
 
 
-* Johnson, R. A., Chan, A. N., Ward, R. D., et al. (2021). "Inhibition of Isoleucyl-tRNA Synthetase by the hybrid antibiotic thiomarinol." *Journal of the American Chemical Society*, 143(31), 12003-12013.
+* Johnson, R. A., Chan, A. N., **Ward, R. D.**, et al. (2021). "Inhibition of Isoleucyl-tRNA Synthetase by the hybrid antibiotic thiomarinol." *Journal of the American Chemical Society*, 143(31), 12003-12013.
 
 
-* Banta, A. B., Ward, R. D., Tran, J. S., et al. (2020). "Programmable Gene Knockdown in Diverse Bacteria Using Mobile-CRISPRi." *Current protocols in microbiology*, 59(1), e130.
+* Banta, A. B., **Ward, R. D.**, Tran, J. S., et al. (2020). "Programmable Gene Knockdown in Diverse Bacteria Using Mobile-CRISPRi." *Current protocols in microbiology*, 59(1), e130.
 
 
 ## Presentations
