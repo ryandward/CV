@@ -1,5 +1,4 @@
 # Ryan D. Ward
-* 6508196 (area code: **five**-**seven**-**five**)
 * **ryandward** with a [Google mail](https://mail.google.com/) account
 * [ORCID](https://orcid.org/0000-0001-9537-2461)  
 * [Stack Overflow](https://stackoverflow.com/users/714178/ryan-david-ward)  
