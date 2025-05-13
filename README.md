@@ -66,7 +66,6 @@ Languages/Technologies: TypeScript, PostgreSQL, TypeORM, Discord.js, Elasticsear
 
 ### First Author
 
-* Ward, R. D. et al. (2025). "Chemical genomics informs antibiotic and essential gene function in *Acinetobacter baumannii*." *PLOS Genetics*. DOI: [10.1371/journal.pgen.1011642](https://doi.org/10.1371/journal.pgen.1011642)
 * Ward, R. D., Tran, J. S., Banta, A. B., et al. (2024). "Essential gene knockdowns reveal genetic vulnerabilities and antibiotic sensitivities in *Acinetobacter baumannii*." *mBio*. DOI: [10.1128/mbio.02051-23](https://doi.org/10.1128/mbio.02051-23)
 * Ward, R. D., Stajich, J. E., Johansen, J. R., et al. (2021). "Metagenome sequencing to explore phylogenomics of terrestrial cyanobacteria." *Microbiology Resource Announcements*. DOI: [10.1128/MRA.00258-21](https://doi.org/10.1128/MRA.00258-21)
 
