@@ -16,7 +16,7 @@ University of Wisconsin–Madison, 2024\
 *Thesis:* *Genetic Determinants of Antibiotic Resistance and Susceptibility in Gram-negative Pathogens*
 
 **BS in Genetics and Biotechnology**\
-New Mexico State University, 2018CI
+New Mexico State University, 2018
 
 **Master of Arts in Economics**\
 New Mexico State University, 2010
