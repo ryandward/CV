@@ -1,46 +1,48 @@
 # Ryan D. Ward
 
-- **Email:** ryandward (at) gmail (dot) com
-- **ORCID:** [https://orcid.org/0000-0001-9537-2461](https://orcid.org/0000-0001-9537-2461)
-- **Stack Overflow:** [ryandavidward](https://stackoverflow.com/users/714178/ryan-david-ward)
-- **GitHub:** [ryandward](https://github.com/ryandward)
-- **Google Scholar:** [Link](https://scholar.google.com/citations?hl=en&user=24sPjT4AAAAJ)
-- **LinkedIn:** [Ryan Ward](https://linkedin.com/in/ryan-ward-346889253/)
+**Email:** ryandward (at) gmail (dot) com\
+**ORCID:** [https://orcid.org/0000-0001-9537-2461](https://orcid.org/0000-0001-9537-2461)\
+**Stack Overflow:** [ryandavidward](https://stackoverflow.com/users/714178/ryan-david-ward)\
+**GitHub:** [ryandward](https://github.com/ryandward)\
+**Google Scholar:** [Link](https://scholar.google.com/citations?hl=en&user=24sPjT4AAAAJ)\
+**LinkedIn:** [Ryan Ward](https://linkedin.com/in/ryan-ward-346889253/)
 
 ---
 
 ## Education and Qualifications
 
-**PhD in Genetics**
-University of Wisconsin–Madison, 2024
+**PhD in Genetics**\
+University of Wisconsin–Madison, 2024\
 *Thesis:* *Genetic Determinants of Antibiotic Resistance and Susceptibility in Gram-negative Pathogens*
 
-**BS in Genetics and Biotechnology**
+**BS in Genetics and Biotechnology**\
 New Mexico State University, 2018CI
 
-**Master of Arts in Economics**
+**Master of Arts in Economics**\
 New Mexico State University, 2010
 
-**Bachelor of Arts in Economics and Foreign Languages**
+**Bachelor of Arts in Economics and Foreign Languages**\
 New Mexico State University, 2007
 
 ---
 
 ## Current Position
 
-**Senior Scientist**
-**Temporal Agriculture**, 2025 – Present
+**Senior Scientist**\
+**Temporal Agriculture**, 2025 – Present\
 Focuses on platform engineering for transient epigenetic editing in plants, emphasizing tool development for high-throughput vector design. Develops scalable, metadata-aware libraries, emphasizing automation and integrative approaches grounded in systems biology. Bridges synthetic biology and computational design using custom pipelines for data-rich decision-making. Routinely operates at the intersection of bioinformatics, data engineering, and software development in R and Python.
 
 ---
 
 ## Open-Source and Independent Projects
 
+These projects were developed independently or collaboratively in the open-source community. Most are unfunded, maintained voluntarily, and support scientific infrastructure or tooling used in experimental pipelines.
+
 ### BarCoder Toolkit for Genomic Experimentation (2023–Present)
 
 Developed a Python toolkit for building and analyzing genome-scale barcoded CRISPRi libraries. Includes modules for guide design, off-target filtering, and orientation-aware read parsing. Implements compressed read formats and sequence matching for high-throughput screens. GUI components support interactive design and targeting workflows.
 
-Languages/Technologies: Python, Bowtie, Polars, SeqIO, JSON, Jupyter, PyQt, GitHub
+**Languages/Technologies:** Python, Bowtie, Polars, SeqIO, JSON, Jupyter, PyQt, GitHub
 
 ### Phylogenetic CRISPRi (2024)
 
@@ -165,22 +167,22 @@ Helped with in vitro and in vivo validation of candidate cancer drug targets. Ra
 
 ### Temporal Agriculture (2025–Present)
 
-**Senior Scientist**
+**Senior Scientist**\
 Leads development of high-throughput synthetic biology tools with an emphasis on automation, reproducibility, and toolchain scalability. Builds and maintains pipelines enabling programmable plant epigenetics.
 
 ### MountainView Regional Medical Center (2017–2019)
 
-**Scribe & Translator**
+**Scribe & Translator**\
 Supported clinical workflows through multilingual documentation.
 
 ### New Mexico Dept. of Agriculture (2012–2017)
 
-**Policy Analyst**
+**Policy Analyst**\
 Analyzed and reported on regional agricultural policy and international infrastructure projects.
 
 ### POSIT (FDA Contractor, 2009–2013)
 
-**Data Analyst**
+**Data Analyst**\
 Developed custom infrastructure and conducted surveillance data analysis for the FDA’s food import risk profiling system.
 
 ---
