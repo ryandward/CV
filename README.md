@@ -13,7 +13,7 @@
 
 **PhD in Genetics**\
 University of Wisconsin–Madison, 2024\
-*Thesis:* *Genetic Determinants of Antibiotic Resistance and Susceptibility in Gram-negative Pathogens*
+**Thesis:** *Genetic Determinants of Antibiotic Resistance and Susceptibility in Gram-negative Pathogens*
 
 **BS in Genetics and Biotechnology**\
 New Mexico State University, 2018
@@ -87,7 +87,7 @@ Languages/Technologies: TypeScript, PostgreSQL, TypeORM, Discord.js, Elasticsear
 
 ### 2023
 
-* *Systematic Dissection of Genetic Vulnerabilities in Acinetobacter baumannii*
+* *Systematic Dissection of Genetic Vulnerabilities in* Acinetobacter baumannii
 
   * Talk: Symposium on the Biology of Acinetobacter, Coimbra, Portugal
   * Poster: EMBL Symposium: New Approaches and Concepts, Heidelberg, Germany
