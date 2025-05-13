@@ -1,10 +1,15 @@
 # Ryan D. Ward
 
 **Email:** ryandward (at) gmail (dot) com
+
 **ORCID:** [https://orcid.org/0000-0001-9537-2461](https://orcid.org/0000-0001-9537-2461)
+
 **Stack Overflow:** [ryandavidward](https://stackoverflow.com/users/714178/ryan-david-ward)
+
 **GitHub:** [ryandward](https://github.com/ryandward)
+
 **Google Scholar:** [Link](https://scholar.google.com/citations?hl=en&user=24sPjT4AAAAJ)
+
 **LinkedIn:** [Ryan Ward](https://linkedin.com/in/ryan-ward-346889253/)
 
 ---
