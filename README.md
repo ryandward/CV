@@ -30,9 +30,8 @@ New Mexico State University, 2007
 
 **Senior Scientist**\
 **Temporal Agriculture**, 2025 – Present\
-Focuses on platform engineering for transient epigenetic editing in plants, emphasizing tool development for high-throughput vector design. Develops scalable, metadata-aware libraries, emphasizing automation and integrative approaches grounded in systems biology. Bridges synthetic biology and computational design using custom pipelines for data-rich decision-making. Routinely operates at the intersection of bioinformatics, data engineering, and software development in R and Python.
+Develops a new in-vivo plasmid editing platform for transient epigenetic modification in plants. Designs the vector systems that drive this process, including recombineering-compatible guide constructs and editing plasmids. The system is modular, does not require genomic integration, and is built to support rapid iteration in synthetic biology workflows.
 
----
 
 ## Open-Source and Independent Projects
 
